@@ -1,0 +1,11 @@
+{
+  "org": "scrapy-plugins",
+  "repo": "scrapy-jsonrpc",
+  "versions": [
+    {
+      "commit": "15e0b7018c003ac794a1f9ce527397ca5602219a",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:22:57.671458+00:00"
+    }
+  ]
+}
